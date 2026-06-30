@@ -1,10 +1,8 @@
 # 💫 Hii, I am Anurag Rai.
-  Currently Btech : CSE [Applied Mathematics Student]
-  Email me at : anurag22084iiitd@gmail.com 
-  Currently Working on Project : Shopping Complex website & Hegde Funds Price Detection.
-  Currently I am Leanring : Advance Algorithm Design & Optimisation, ML , DNN & backend Development. 
+  Currently Btech : CSE [Applied Mathematics Student] 
   
-# 💫 About Me:
+# 🔥 About Me:
+Email me at : anurag22084iiitd@gmail.com 
 I am Working on the Shopping Complex Project & Hedge Funds Regime Detection.<br>Currently I am Learning : ML DNN Algorithm Design & Optimization <br>I have Previously worked on HPC on Distributed processor.<br>My real Talent is I can do 5 Group Project alone
 
 
